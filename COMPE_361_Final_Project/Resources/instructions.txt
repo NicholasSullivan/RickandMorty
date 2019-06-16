@@ -1,0 +1,13 @@
+Instructions:
+Blim Blam the Korblock has hidden all of the pieces of the portal gun throughout this maze, and it’s up to you to find them and save the world! 
+Click Speech Bubbles to progress.
+Use the arrow keys to move Morty.
+Use the portals to teleport to / from different rooms.
+Some portals are random, who knows where they might take you!
+But you must answer the question correctly or else that portal will be closed forever!
+Watch out for hidden walls! 
+Press S to see the hidden walls.
+Press M to view the map of the maze.
+Collect all of the pieces to open the final door.
+Don't lock the final door or else it's game over!
+If you lock yourself out of a room with a piece left inside it's also game over!
